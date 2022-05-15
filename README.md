@@ -4,5 +4,4 @@
 - 😛 I don't know a whole lot yet, but I'm getting there!
 
 ## Current Projects
-Recently I've been working a LOT on my Make-Bank-Game repo.
-I've had several ideas for browser based games, but I can't decide on what to do.
+Currently working on a Gmail API chrome extension. It simply adds a little button to every page in your browser, and when you click it it composes a new email!
